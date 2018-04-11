@@ -5,8 +5,7 @@ import { Container } from '../components/Container';
 const Home = () => (
   <Container>
     <Text>React-Native Boilerplate</Text>
-    <Text>
-      {' '}
+    <Text style={{ fontFamily: 'OpenSans-SemiBoldItalic' }}>
       Includes packages like React-Navigation, ESLint(Airbnb), Prettier, PropTypes and
       React-Native-Extended-Stylesheet
     </Text>
