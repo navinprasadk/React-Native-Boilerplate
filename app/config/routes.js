@@ -1,5 +1,5 @@
 import { StackNavigator } from 'react-navigation';
-import HomeScreen from '../screens/Home.js';
+import HomeScreen from '../screens/Home';
 
 export default StackNavigator({
   Home: {
